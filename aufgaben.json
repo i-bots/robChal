@@ -1,0 +1,33 @@
+[
+	{
+	"type":"choice",
+	"name":"Brücke",
+	"options":
+		{
+		"ding ausgewählt":10,
+		"anderes ding ausgewählt":20,
+		"test3":50,
+		"test":10
+		}
+	},
+	{
+	"type":"check",
+	"name":"Haken gesetzt",
+	"options":[0,10]
+	},
+	{
+	"type":"check",
+	"name":"zwei haken gesetzt",
+	"options":[0,20]
+	},
+	{
+	"type":"choice",
+	"name":"Neu",
+	"options":{"irgendwas":1}
+	},
+	{
+	"type":"check",
+	"name":"hey",
+	"options":[0,1000000]
+	}
+]
